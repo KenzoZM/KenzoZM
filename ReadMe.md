@@ -1,5 +1,5 @@
 # About Me:
-💻 Desenvolvedor Backend/C#<br>🏢 Em busca de oportunidades no mercado de trabalho<br>👨🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas<br>👨🏻‍💻 Aprimorando conhecimentos em: C#/.NET/ASP.NET/SQL/API REST<br>
+💻 Desenvolvedor Backend/C#<br>🏢 Aberto a propostas🤝<br>👨🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas<br>👨🏻‍💻 Aprimorando conhecimentos em: C#/.NET/ASP.NET/SQL/API REST<br>
 
 
 ## 🌐 Socials:
