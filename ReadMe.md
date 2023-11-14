@@ -1,5 +1,8 @@
 # About Me:
-💻 Desenvolvedor Backend/C#<br>🏢 Aberto a propostas🤝<br>👨🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas<br>👨🏻‍💻 Aprimorando conhecimentos em: C#/.NET/ASP.NET/SQL/API REST<br>
+💻 Desenvolvedor Backend | .NET <br>
+🏢 Aberto a propostas🤝<br>
+👨🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas<br>
+<br>
 
 
 ## 🌐 Socials:
@@ -19,9 +22,10 @@
 <br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KenzoZM&theme=dark&hide_border=false&include_all_commits=true&count_private=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=KenzoZM&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=KenzoZM&theme=dark&hide_border=false)<br/>
-
+<div align="center">
+<img width="450em" alt="Status Github Kenzo" src="https://github-readme-stats.vercel.app/api?username=KenzoZM&show_icons=true&theme=radical" />
+<img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenzoZM&layout=compact&theme=radical"/>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KenzoZM&icon=0&color=12)](https://visitcount.itsvg.in)
