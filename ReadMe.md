@@ -1,7 +1,6 @@
 # About Me:
-💻 Desenvolvedor Backend | .NET <br>
-🏢 Aberto a propostas🤝<br>
-👨🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas<br>
+💻 FullStack Developer <br>
+👨🏻‍🎓 Studying Systems Analysis and Development<br>
 <br>
 
 
